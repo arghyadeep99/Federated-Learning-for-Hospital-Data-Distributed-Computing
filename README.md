@@ -1,4 +1,4 @@
-<h1 align="center">:chart_with_upwards_trend: Federated Learning for Hospital-Data Distributed Computing :hospital:</h1>
+<h1 align="center">:chart_with_upwards_trend: Federated Learning for Diagnosing Acute Inflammations of Bladder :hospital:</h1>
 
 <div align="center">
 
