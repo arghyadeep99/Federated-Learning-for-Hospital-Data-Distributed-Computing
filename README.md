@@ -17,7 +17,9 @@ Demonstration of application of Distributed Computing in Federated Learning.
 
 This machine learning system can diagnose 2 acute inflammations of bladder. The medical dataset contains features and diagnoses of 2 diseases of the urinary system: **Inflammation of urinary bladder** and **nephritis of renal pelvis origin**. This medical dataset truly needs privacy! Because we cannot divulge the sexually-transmitted diseases of patients. Federated learning will protect the privacy of datasets in each hospital and at the same time, a more robust machine learning model will benefit all hospitals. Why? Because the machine learning model generated in this project is 100% accurate; whereas human doctors can commit mistakes when diagnosing these 2 diseases. This machine learning system will leverage the advantage of distributed computing, whereby model will be sent to different computing systems (hospitals), it will be trained locally using the private data, and only the weights will be sent back to the central server in order to perform the learning. Hence, in this project, we will be simulating the distributed computing environment, which is in accordance with syllabus of our course on "Distributed and Cloud Computing". 
 
+<div align="center">
 <img align='center' src="./images/bladder.jpg">
+</div>
 
 <h2>Dataset Used</h2>
 
@@ -44,7 +46,7 @@ In this way, only the ML model will be shared. Whereas the local cases of each h
 
 
 <h3 align="center"><b>Developed with :heart: by: </b></h3>
-	
+<div align="center">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
 <td>
@@ -61,3 +63,4 @@ In this way, only the ML model will be shared. Whereas the local cases of each h
 
 </tr>
 </table>
+</div>
